@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4e4e80-a8a6-48ac-a316-5f79e735a3cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/BoolType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/StringType.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ac4e4e80-a8a6-48ac-a316-5f79e735a3cd" name="Changes" comment="add BoolType.py, StringType.py">
+      <change afterPath="$PROJECT_DIR$/DataTypes/Strings/Slices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Strings/String Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Strings/StringMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/StringType.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hazetk4k"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hazetk4k&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hazetk4k/Refresh_my_python_memories.git",
-    "accountId": "cdf94d2f-c6ee-4482-ae13-d00dd0e44de3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hazetk4k/Refresh_my_python_memories.git&quot;,
+    &quot;accountId&quot;: &quot;cdf94d2f-c6ee-4482-ae13-d00dd0e44de3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -53,6 +55,8 @@
     "Python.MathFunctions.executor": "Run",
     "Python.NewStudyFile.executor": "Run",
     "Python.NumericTypes.executor": "Run",
+    "Python.Slices.executor": "Run",
+    "Python.StringMethods.executor": "Run",
     "Python.StringType.executor": "Run",
     "Python.StudyStart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -70,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\Projects\StudyBasics\DataTypes\Strings" />
       <recent name="D:\Study\Projects\StudyBasics\BasicFuncs" />
       <recent name="D:\Study\Projects\StudyBasics\DataTypes" />
     </key>
@@ -94,10 +99,34 @@
       <workItem from="1724495663637" duration="3598000" />
       <workItem from="1724699524158" duration="175000" />
     </task>
+    <task id="LOCAL-00001" summary="add BoolType.py, StringType.py">
+      <option name="closed" value="true" />
+      <created>1724964508234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724964508234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add BoolType.py, StringType.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add BoolType.py, StringType.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/StudyBasics$NewStudyFile.coverage" NAME="NewStudyFile Coverage Results" MODIFIED="1724445359612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
