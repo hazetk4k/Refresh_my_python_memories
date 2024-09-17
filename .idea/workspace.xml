@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac4e4e80-a8a6-48ac-a316-5f79e735a3cd" name="Changes" comment="add smth">
-      <change afterPath="$PROJECT_DIR$/BasicFuncs/Cycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicFuncs/Funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicFuncs/Generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicFuncs/OperatorIfElse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Dictionaries/DictBasics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Dictionaries/DictionariesMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Lists/ListComprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Lists/ListMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Sets/SetsBasics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Sets/SetsOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Tuples/TuplesBasics.py" afterDir="false" />
+    <list default="true" id="ac4e4e80-a8a6-48ac-a316-5f79e735a3cd" name="Changes" comment="add cycles, funcs, dicts, lists, sets, tuples, if else">
+      <change afterPath="$PROJECT_DIR$/BasicFuncs/ArgsKwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicFuncs/Funcs/LambdaFuncs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicFuncs/Funcs/recursive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Lists/ListsBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/BaseCollections/Lists/ListsBasics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicFuncs/Funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicFuncs/Funcs/Funcs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ArgsKwargs.executor": "Run",
     "Python.BoolType.executor": "Run",
     "Python.Cycles.executor": "Run",
     "Python.DictBasics.executor": "Run",
@@ -78,6 +71,7 @@
     "Python.StringType.executor": "Run",
     "Python.StudyStart.executor": "Run",
     "Python.TuplesBasics.executor": "Run",
+    "Python.recursive.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -93,6 +87,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\Projects\StudyBasics\BasicFuncs\Funcs" />
       <recent name="D:\Study\Projects\StudyBasics\DataTypes\BaseCollections" />
       <recent name="D:\Study\Projects\StudyBasics\DataTypes\Strings" />
       <recent name="D:\Study\Projects\StudyBasics\BasicFuncs" />
@@ -151,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725557948188</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add cycles, funcs, dicts, lists, sets, tuples, if else">
+      <option name="closed" value="true" />
+      <created>1726498916691</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726498916691</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +175,8 @@
     <MESSAGE value="add BoolType.py, StringType.py" />
     <MESSAGE value="formate String Basics.py" />
     <MESSAGE value="add smth" />
-    <option name="LAST_COMMIT_MESSAGE" value="add smth" />
+    <MESSAGE value="add cycles, funcs, dicts, lists, sets, tuples, if else" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cycles, funcs, dicts, lists, sets, tuples, if else" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/StudyBasics$NewStudyFile.coverage" NAME="NewStudyFile Coverage Results" MODIFIED="1724445359612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
